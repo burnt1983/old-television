@@ -35,7 +35,7 @@ The set opens on static. Click the glass for the first channel, and click again 
 
 ## Channels
 
-Thirty-three public HLS streams. The first eight are the original dial. The rest were checked from a UK network on 5 Nov 2026. A station can go offline. The glass shows "No signal" and the next click moves on.
+Thirty-three public HLS streams. The first eight are the original dial. A station can go offline. The glass shows "No signal" and the next click moves on.
 
 DW English, Bloomberg, VOA Africa, CGTN, Red Bull TV, France 24, DW Español, DW Arabic, BBC One (London), BBC Two, BBC Four, BBC News, CBBC, CBeebies, BBC Arabic, Pop, Tiny Pop, GREAT! movies, Blaze, Trace UK, talkSPORT, NASA TV, QVC, QVC Beauty, Gemporia, Hobby Maker, TJC, TalkTV, Sky News Weather, CNBC, Al Jazeera Arabic, TRT World, CNA.
 

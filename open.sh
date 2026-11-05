@@ -1,6 +1,6 @@
 #!/bin/bash
 # Open the old television. Starts a local page so the live streams can play.
-# Resolve symlinks so the dock launcher finds this folder, not ~/bin.
+# Resolve symlinks so the launcher uses this folder.
 SOURCE="${BASH_SOURCE[0]}"
 while [ -L "$SOURCE" ]; do
   DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
