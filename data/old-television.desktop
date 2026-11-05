@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Old Television
+Comment=A worn set. Click the glass for a channel.
+Exec=old-television
+Icon=lee-old-television
+Terminal=false
+Categories=AudioVideo;Video;
+StartupNotify=false
+StartupWMClass=lee-old-television
+Keywords=television;tv;crt;channels;
