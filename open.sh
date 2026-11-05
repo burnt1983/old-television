@@ -8,6 +8,9 @@ while [ -L "$SOURCE" ]; do
   [[ "$SOURCE" != /* ]] && SOURCE="$DIR/$SOURCE"
 done
 cd "$(cd -P "$(dirname "$SOURCE")" && pwd)"
+if [ ! -f hls.min.js ]; then
+  cat vendor/hls.part-* > hls.min.js
+fi
 PORT=8765
 URL="http://127.0.0.1:${PORT}/"
 if ! curl -fsS -o /dev/null --max-time 1 "$URL"; then

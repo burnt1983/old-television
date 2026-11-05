@@ -49,7 +49,7 @@ These are the broadcasters' own public playlists. Locked channels are not includ
 
 ## Credits
 
-The page plays HLS with [hls.js](https://github.com/video-dev/hls.js) 1.5.20, included as `hls.min.js`. hls.js is Apache-2.0. See [NOTICE](NOTICE).
+The page plays HLS with [hls.js](https://github.com/video-dev/hls.js) 1.5.20. The player is included under `vendor/` and joined into `hls.min.js` on install. hls.js is Apache-2.0. See [NOTICE](NOTICE).
 
 ## Licence
 
