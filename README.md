@@ -12,7 +12,7 @@ Needs Python 3, GTK 3, PyGObject, cairo, and WebKitGTK 4.1
 ```bash
 git clone https://github.com/burnt1983/old-television.git
 cd old-television
-./install.sh
+bash install.sh
 old-television
 ```
 
@@ -44,7 +44,7 @@ These are the broadcasters' own public playlists. Locked channels are not includ
 ## Uninstall
 
 ```bash
-./uninstall.sh
+bash uninstall.sh
 ```
 
 ## Credits
